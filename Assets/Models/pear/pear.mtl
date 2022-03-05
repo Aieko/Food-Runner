@@ -1,0 +1,14 @@
+# Blender MTL File: 'pear.blend'
+# Material Count: 1
+newmtl Pear_pear.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pear.blend\food_textures\pear.dds
+map_Bump pear.blend\\food_textures\\pear_normal.dds
+
+
